@@ -4,9 +4,11 @@ DuperBSG/DuperBSG is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# DUPERBSG
+# :rose: DUPERBSG
 
-![backgroundCity](https://github.com/user-attachments/assets/5790e652-b916-462c-a611-2ebf058c2c07)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5790e652-b916-462c-a611-2ebf058c2c07" />
+</p>
 
 
 ## :mortar_board: Who Am I?
