@@ -6,6 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 # DUPERBSG
 
+![backgroundCity](https://github.com/user-attachments/assets/5790e652-b916-462c-a611-2ebf058c2c07)
+
+
 ## :mortar_board: Who Am I?
 Welcome to my personal Github Website! I am Bowei Zhang, a mathematics students from University of Waterloo.
 
