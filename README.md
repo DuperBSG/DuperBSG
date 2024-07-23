@@ -30,14 +30,22 @@ Musician:
 > - :musical_keyboard: PIANO
 
 
-## :rocket: Links
+## :space_invader: My Tech Skillset:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,ps,blender,react)](https://skillicons.dev)
 
+
+
+## :rocket: Links
 :link: ArtStation:
-```
-https://www.artstation.com/duperbsg
-```
+> ```
+> https://www.artstation.com/duperbsg
+> ```
 
 :link: LinkedIn
-```
-https://www.linkedin.com/in/bowei-zhang-0710a32a8/
-```
+> ```
+> https://www.linkedin.com/in/bowei-zhang-0710a32a8/
+> ```
+
+## Spotify (Personal Favourites)
+
+
