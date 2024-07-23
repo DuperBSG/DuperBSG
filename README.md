@@ -33,7 +33,7 @@ Musician:
 ## :space_invader: My Tech Skillset:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,ps,blender,react)](https://skillicons.dev)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000)
 
 ## :rocket: Links
 :link: ArtStation:
@@ -48,4 +48,6 @@ Musician:
 
 ## Spotify (Personal Favourites)
 
-
+> ```
+> https://open.spotify.com/album/0WfaymotWN6xYdLD8uqZ52?si=xUQCNsSGRAaglBGBFgM_JA
+> ```
