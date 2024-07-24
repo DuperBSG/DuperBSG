@@ -36,15 +36,14 @@ Currently, I am working on creating a 3D personal Website along with React and R
           <h3>
             My Tech Skillset:
           </h3>
-          <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs" alt="My Skills" />
             <img src="https://skillicons.dev/icons?i=java,python,ps,blender,react,java" alt="My Skills" />
           </a>
           <h3>
             My Stats:
           </h3>
-          <img src="https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats" width="400" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duperbsg&layout=compact&langs_count=4&bg_color=00000000" alt="Top Langs" width="400"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats" width="350" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duperbsg&layout=compact&langs_count=4&bg_color=00000000" alt="Top Langs" width="350"/>
       </td>
     <td>
       <p>
