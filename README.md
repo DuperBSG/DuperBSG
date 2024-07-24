@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/user-attachments/assets/5790e652-b916-462c-a611-2ebf058c2c07" />
 </p>
 
-
 ## :mortar_board: Who Am I?
 Welcome to my personal Github Website! I am Bowei Zhang, a mathematics students from University of Waterloo.
 
@@ -18,7 +17,6 @@ I enjoy spending my time on creating artworks or practicing instruments outside 
 Currently, I am working on creating a 3D personal Website along with React and React three fiber. Wish me luck! :bulb:
 
 ## :tropical_drink: Special Skills:
->
 
 <table align="center" width="1000px">
   <tr>
@@ -53,12 +51,7 @@ Currently, I am working on creating a 3D personal Website along with React and R
   </tr>
 </table>
 
-  
-<!-- <p align="center"> -->
-<!-- </p> -->
-
 ## :rocket: Links
-
 
 :link: ArtStation:
 > ```
@@ -70,9 +63,11 @@ Currently, I am working on creating a 3D personal Website along with React and R
 > https://www.linkedin.com/in/bowei-zhang-0710a32a8/
 > ```
 
-![Snake animation](https://github.com/duperbsg/duperbsg/blob/output/github-contribution-grid-snake.svg)
-## Spotify (Personal Favourites)
+## Spotify (Personal Favourite)
 
 > ```
 > https://open.spotify.com/album/0WfaymotWN6xYdLD8uqZ52?si=xUQCNsSGRAaglBGBFgM_JA
 > ```
+
+
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/duperbsg/github-readme-quotes) -->
