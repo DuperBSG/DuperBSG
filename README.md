@@ -20,22 +20,65 @@ Currently, I am working on creating a 3D personal Website along with React and R
 ## :tropical_drink: Special Skills:
 >
 
-Artist:
-> - :art: Oil Painting 
-> - :computer: 3D Modeling
+    <p>
+    <p>
+      
+    Artist:
+    > - :art: Oil Painting 
+    > - :computer: 3D Modeling
+  
+  
+    Musician:
+    > - :trumpet: TRUMPET
+    > - :musical_keyboard: PIANO
+    </p>
+  
+    <p>
+       <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c"/>
+    </p>
+    </p>
 
-
-Musician:
-> - :trumpet: TRUMPET
-> - :musical_keyboard: PIANO
-
+<table>
+  <tr>
+    <td>
+      <p>
+        Artist:
+        > - :art: Oil Painting 
+        > - :computer: 3D Modeling
+        Musician:
+        > - :trumpet: TRUMPET
+        > - :musical_keyboard: PIANO
+      </p>
+    </td>
+    <td>
+      <p>
+         <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## :space_invader: My Tech Skillset:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,ps,blender,react)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,ps,blender,react" alt="My Skills" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000)
+## :movie_camera: My Stats
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000" alt="Bowei's GitHub stats" width="500px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duperbsg&layout=compact&langs_count=4&bg_color=00000000" alt="Top Langs" width="500px"/>
+<!-- <p align="center"> -->
+<!-- </p> -->
 
 ## :rocket: Links
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c"/>
+</p>
+
 :link: ArtStation:
 > ```
 > https://www.artstation.com/duperbsg
@@ -46,6 +89,7 @@ Musician:
 > https://www.linkedin.com/in/bowei-zhang-0710a32a8/
 > ```
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ## Spotify (Personal Favourites)
 
 > ```
