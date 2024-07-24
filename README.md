@@ -70,7 +70,7 @@ Currently, I am working on creating a 3D personal Website along with React and R
 > https://www.linkedin.com/in/bowei-zhang-0710a32a8/
 > ```
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/duperbsg/duperbsg/blob/output/github-contribution-grid-snake.svg)
 ## Spotify (Personal Favourites)
 
 > ```
