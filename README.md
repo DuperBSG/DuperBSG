@@ -20,64 +20,46 @@ Currently, I am working on creating a 3D personal Website along with React and R
 ## :tropical_drink: Special Skills:
 >
 
-    <p>
-    <p>
-      
-    Artist:
-    > - :art: Oil Painting 
-    > - :computer: 3D Modeling
-  
-  
-    Musician:
-    > - :trumpet: TRUMPET
-    > - :musical_keyboard: PIANO
-    </p>
-  
-    <p>
-       <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c"/>
-    </p>
-    </p>
-
-<table>
+<table align="center" width="1000px">
   <tr>
+      <td border="none">
+        <h3>Artist:</h3>
+          <ul>
+            <li>🎨 Oil Painting</li>
+            <li>💻 3D Modeling</li>
+          </ul>
+        <h3>Musician:</h3>
+        <ul>
+          <li>🎺 Trumpet</li>
+          <li>🎹 Piano</li>
+        </ul>
+          <h3>
+            My Tech Skillset:
+          </h3>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs" alt="My Skills" />
+            <img src="https://skillicons.dev/icons?i=java,python,ps,blender,react,java" alt="My Skills" />
+          </a>
+          <h3>
+            My Stats:
+          </h3>
+          <img src="https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats" width="400" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duperbsg&layout=compact&langs_count=4&bg_color=00000000" alt="Top Langs" width="400"/>
+      </td>
     <td>
       <p>
-        Artist:
-        > - :art: Oil Painting 
-        > - :computer: 3D Modeling
-        Musician:
-        > - :trumpet: TRUMPET
-        > - :musical_keyboard: PIANO
-      </p>
-    </td>
-    <td>
-      <p>
-         <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c"/>
+         <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c" width="1100px"/>
       </p>
     </td>
   </tr>
 </table>
 
-## :space_invader: My Tech Skillset:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,ps,blender,react" alt="My Skills" />
-  </a>
-</p>
-
-## :movie_camera: My Stats
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=duperbsg&show_icons=true&bg_color=00000000" alt="Bowei's GitHub stats" width="500px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duperbsg&layout=compact&langs_count=4&bg_color=00000000" alt="Top Langs" width="500px"/>
+  
 <!-- <p align="center"> -->
 <!-- </p> -->
 
 ## :rocket: Links
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/39367101-6e07-4b76-9480-578d7df4967c"/>
-</p>
 
 :link: ArtStation:
 > ```
